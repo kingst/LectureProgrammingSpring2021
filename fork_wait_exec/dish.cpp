@@ -3,6 +3,7 @@
 #include <string>
 
 #include <unistd.h>
+#include <wait.h>
 
 using namespace std;
 
